@@ -1,1 +1,2 @@
 Hi team welcome to git
+CHANGES WERE DOING APART OF THE PROJECT
